@@ -12,5 +12,5 @@ if bit == '64bit':
     main()
 elif bit == '32bit':
     print("\x1b[1;92m Congratulations ! Your Device Support this Tools")
-from AKING32 import main
+    from AKING32 import main
     main()
